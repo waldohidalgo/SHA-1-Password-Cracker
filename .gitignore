@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+top-10000-passwords.txt
+known-salts.txt
