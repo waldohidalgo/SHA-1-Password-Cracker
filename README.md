@@ -73,3 +73,5 @@ Los test unitarios se han aprobado tal cual han sido entregados por freecodecamp
 ![Test Unitarios Aprobados](./imagenes/test_aprobados.webp)
 
 ## Proyecto Aprobado
+
+![Proyecto Aprobado](./imagenes/proyecto_aprobado.webp)
